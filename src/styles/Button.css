@@ -1,0 +1,14 @@
+.global-button {
+  margin: 0 5px;
+  padding: 10px 30px;
+  border: none;
+  font-weight: 600;
+}
+
+.global-button:hover {
+  cursor: pointer;
+}
+
+.global-button:focus {
+  outline: none;
+}
